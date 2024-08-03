@@ -1,12 +1,10 @@
 <h1 align="center">Hello 👋, I'm TWINKLE</h1>
-<h3 align="center"> An enthusiast 3rd Year Computer Science Engineering Student</h3>
+<h3 align="center"> An enthusiast 4th Year Computer Science Engineering Student</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=twinkletrivaan&label=Profile%20views&color=0e75b6&style=flat" alt="sudeeptagiri" /> </p>
 
 <h1> <b>About Me :</b>  </h1>
  <a href="https://github.com/twinkletrivaan"><img align="right" width="180" height="180" src="https://i.pinimg.com/originals/0f/a0/94/0fa09464c343885355e6aa4d2f4a88b5.gif"></a>
-
-- 🌱 I’m currently learning **Full-Stack Development**
 
 - 💡 I’m looking to collaborate on any Creative Ideas
 
